@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{5913a405-0135-4d94-a1a2-b1f68f01080e}">
+		<property name="name">
+			<value>in_jukebox</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4842a855-69c7-430a-9c53-ca765e045e32}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{98ccb7b0-21f0-4a4a-84fd-dbe250a9c497}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{98ccb7b0-21f0-4a4a-84fd-dbe250a9c497}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
