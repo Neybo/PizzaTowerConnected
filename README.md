@@ -1,6 +1,6 @@
 # Pizza Tower Connected
 
-A mod of PTO, that due to copyright law (under the GPLv3 license that PTO ***had*** when we forked it) the source code has to go public.
+A mod of PTO, that due to copyright law (under the GPLv3 license that PTO ***had*** [when we forked it](https://github.com/loypoll/PizzaTowerOnline/tree/debe8307f26763d20305e473e16a9a4b4ea0bb21)) the source code has to go public.
 
 However, I don't think you can make public mods of PTC due to the fact that loypoll has ***now*** removed the license to make it all rights reserved, and has explictly denied all future modifications of it.
 
