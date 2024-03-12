@@ -1,0 +1,4 @@
+instance_destroy(obj_ghostjohn)
+instance_destroy(obj_pizzaface)
+instance_destroy(obj_snickexe)
+instance_destroy(obj_wartimer)

@@ -1,0 +1,2 @@
+msg = "WASHING MACHINE";
+

@@ -1,0 +1,2 @@
+targetRoom = ruin_lap
+

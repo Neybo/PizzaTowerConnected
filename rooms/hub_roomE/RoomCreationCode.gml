@@ -1,0 +1,3 @@
+with obj_ladder
+	visible = false;
+video_close() // oh my cheese............

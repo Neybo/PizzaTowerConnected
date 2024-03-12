@@ -1,0 +1,1 @@
+die = global.gameplay > 0

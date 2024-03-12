@@ -1,0 +1,3 @@
+/// @description advance sequence
+con++;
+

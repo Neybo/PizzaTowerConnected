@@ -1,0 +1,1 @@
+die = OLD_GAMEPLAY

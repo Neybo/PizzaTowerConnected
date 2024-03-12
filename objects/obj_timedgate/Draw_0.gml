@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index, image_index, xstart, ystart, image_xscale, image_yscale, 0, c_white, (global.timedgatetime > 0 ? 0.25 : image_alpha));

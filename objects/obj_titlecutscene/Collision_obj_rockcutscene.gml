@@ -1,0 +1,11 @@
+if sprite_index == spr_pepcooter
+{
+	scr_soundeffect(sfx_pephurt)
+	instance_create(x, y, obj_bangeffect)
+	sprite_index = spr_player_machfreefall
+	drop = true
+	vsp = -20
+	hsp = 8
+	other.image_index = 1
+}
+

@@ -1,0 +1,2 @@
+baddieID = noone;
+thrown = false

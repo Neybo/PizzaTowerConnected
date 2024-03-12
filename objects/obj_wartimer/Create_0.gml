@@ -1,0 +1,9 @@
+depth = -100
+minutes = 0
+seconds = 0
+addseconds = 0
+alarm[0] = 60
+timer_y = (430 + sprite_get_height(spr_wartimer))
+global.wartimer = true
+wartimerfont1 = font_add_sprite_ext(spr_wartimer_font1, "1234567890", 1, 0)
+wartimerfont2 = font_add_sprite_ext(spr_wartimer_font2, "1234567890", 1, 0)

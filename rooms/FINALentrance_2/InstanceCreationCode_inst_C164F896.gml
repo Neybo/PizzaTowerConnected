@@ -1,0 +1,1 @@
+targetRoom = FINALentrance_3;

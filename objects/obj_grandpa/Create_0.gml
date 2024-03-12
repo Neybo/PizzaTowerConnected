@@ -1,0 +1,23 @@
+scr_initenemy();
+image_speed = 0.35
+
+arenalayer = layer
+depth = 0
+
+state = states.idle
+flash = false
+spr_dead = spr_grandpa_dead
+spr_palette = palette_cheeseslime
+paletteselect = 0
+grounded = true
+hsp = 0
+vsp = 0
+hp = 1
+groundpound = false
+invincible = false
+parryable = false
+thrown = false
+sugaryenemy = false
+
+with obj_player
+	if character == "S" instance_destroy(other.id, false);

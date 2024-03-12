@@ -1,0 +1,1 @@
+doCheck = instance_exists(obj_randomsecret)

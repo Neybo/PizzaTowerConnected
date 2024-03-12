@@ -1,0 +1,1 @@
+targetRoom = d2ancientbase_1

@@ -1,0 +1,1 @@
+targetRoom = oldmansion_8

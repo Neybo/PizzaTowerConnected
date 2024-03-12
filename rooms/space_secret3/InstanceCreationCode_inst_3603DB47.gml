@@ -1,0 +1,2 @@
+targetRoom = space_5
+

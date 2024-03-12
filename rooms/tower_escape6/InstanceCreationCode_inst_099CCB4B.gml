@@ -1,0 +1,1 @@
+baddieID = obj_player // who's calling? lil hack ofc

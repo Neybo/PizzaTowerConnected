@@ -1,0 +1,1 @@
+scr_destroy_if_randsecr()

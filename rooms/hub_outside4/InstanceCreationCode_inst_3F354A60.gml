@@ -1,0 +1,2 @@
+targetRoom = rm_msdosjokesequence;
+

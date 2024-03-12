@@ -1,0 +1,1 @@
+fmod_stop_instance_immediately(diagsnd)

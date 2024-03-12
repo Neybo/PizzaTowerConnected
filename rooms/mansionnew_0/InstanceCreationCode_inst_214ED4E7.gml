@@ -1,0 +1,1 @@
+targetRoom = mansionnew_lap
