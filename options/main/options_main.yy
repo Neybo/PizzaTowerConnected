@@ -1,0 +1,23 @@
+{
+  "resourceType": "GMMainOptions",
+  "resourceVersion": "1.4",
+  "name": "Main",
+  "ConfigValues": {
+    "fullgameNOTRELEASE": {"option_sci_usesci":"true",},
+  },
+  "option_author": "",
+  "option_collision_compatibility": true,
+  "option_copy_on_write_enabled": true,
+  "option_draw_colour": 4294967295,
+  "option_game_speed": 60,
+  "option_gameguid": "ebf7bd96-5dd8-4c8d-abed-66a6ba177f20",
+  "option_gameid": "0",
+  "option_mips_for_3d_textures": false,
+  "option_sci_usesci": false,
+  "option_spine_licence": false,
+  "option_steam_app_id": "0",
+  "option_template_description": "",
+  "option_template_icon": "${base_options_dir}/main/template_icon.png",
+  "option_template_image": "${base_options_dir}/main/template_image.png",
+  "option_window_colour": 255,
+}
