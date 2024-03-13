@@ -11,3 +11,5 @@ I hope you enjoy this source code, which includes the PTCUtils.dll source code, 
 Open with 2023.6.0.139 (runtime).
 
 This is a seperate repo to prevent compromise of servers blah blah.
+
+This is also an archive as PTC will no longer receive updates due to lack of motivation. 
